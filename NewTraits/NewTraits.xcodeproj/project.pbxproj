@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXFileReference section */
@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		1BF841672CB2B35A0089E2D6 /* Exceptions for "NewTraits" folder in "NewTraits" target */ = {
+		1BF841672CB2B35A0089E2D6 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,14 +21,7 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1BF841572CB2B3590089E2D6 /* NewTraits */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				1BF841672CB2B35A0089E2D6 /* Exceptions for "NewTraits" folder in "NewTraits" target */,
-			);
-			path = NewTraits;
-			sourceTree = "<group>";
-		};
+		1BF841572CB2B3590089E2D6 /* NewTraits */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (1BF841672CB2B35A0089E2D6 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = NewTraits; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +92,7 @@
 				};
 			};
 			buildConfigurationList = 1BF841502CB2B3590089E2D6 /* Build configuration list for PBXProject "NewTraits" */;
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -107,7 +101,6 @@
 			);
 			mainGroup = 1BF8414C2CB2B3590089E2D6;
 			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 1BF841562CB2B3590089E2D6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
